@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "P1.md"
+        "P1.md",
+        "Dir/A/B/P2.md"
     ],
     "testFiles": [
         "test.ts"
